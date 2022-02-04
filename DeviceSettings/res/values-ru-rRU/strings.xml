@@ -18,7 +18,7 @@
     <!-- Alert Slider -->
     <string name="slider_title">Ползунок управления звуком</string>
     <string name="mute_media_title">Заглушить звук медиа</string>
-    <string name="mute_media_summary">Выключить громкость мультимедиа, если ползунок оповещения установлен в положение "Без звука"</string>
+    <string name="mute_media_summary">Глушить мультимедиа, если ползунок оповещения установлен в положение "Без звука"</string>
     <string name="mute_media_warning">Это будет действовать только для динамика</string>
     <!-- Custom seekbar -->
     <string name="custom_seekbar_value">Значение: <xliff:g id="v">%s</xliff:g></string>
