@@ -5,6 +5,8 @@
     <!-- Refresh rate -->
     <string name="min_refresh_rate_title">最低刷新率</string>
     <string name="max_refresh_rate_title">最高刷新率</string>
+    <string name="min_greater_than_peak">最低刷新率不能高于最高刷新率！</string>
+    <string name="peak_less_than_min">最高刷新率不能低于最低刷新率！</string>
     <string name="battery_saver_refresh_rate_title">降低刷新率</string>
     <string name="battery_saver_refresh_rate_summary">当省电模式开启时，使用 60 Hz 屏幕刷新率以节省电量</string>
     <!-- Gestures: Touchscreen gestures -->
@@ -487,4 +489,15 @@
     <string name="gesture_navbar_radius_title">小白条粗细</string>
     <string name="thin_label">最细</string>
     <string name="thick_label">最粗</string>
+    <!-- One shot automatic brightness -->
+    <string name="auto_brightness_one_shot_title">瞬息自动亮度</string>
+    <string name="auto_brightness_one_shot_summary">仅在打开屏幕的瞬间自动调整亮度</string>
+    <!-- Hotspot VPN -->
+    <string name="tethering_allow_vpn_upstreams_title">允许客户端使用 VPN</string>
+    <string name="tethering_allow_vpn_upstreams_summary">允许热点客户端使用此设备\u2019的 VPN 连接到上游</string>
+    <!-- Unlimited g00gle ph0t0s st0rage -->
+    <string name="app_info_misc">杂项</string>
+    <string name="use_photos_spoof_title">无限制的 Google Photos 存储</string>
+    <string name="use_photos_spoof_summary">伪装机型为 Pixel XL 以获得无限制的原图存储空间</string>
+    <string name="use_photos_spoof_info">重启 Google Photos 应用以生效</string>
 </resources>

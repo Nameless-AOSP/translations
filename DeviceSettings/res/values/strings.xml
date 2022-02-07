@@ -51,26 +51,7 @@
     <string name="dolby_summary">Configure the audio output based on media content</string>
 
     <!-- Doze -->
-    <string name="ambient_enable">Use ambient display</string>
     <string name="doze_panel_title">Doze</string>
-    <string name="ambient_display_gestures_title">Ambient display gestures</string>
-    <string name="ambient_display_gestures_summary">Additional gestures to wake the screen</string>
-    <string name="doze_settings_help_title">Help</string>
-    <string name="doze_settings_help_text">These features use sensor events to launch a doze notification pulse. The chosen sensor is only enabled when the device receives a notification, this helps to reduce battery usage. There is also an option to enable the chosen sensor as soon as the screen turns off, this will cause higher battery usage.</string>
-    <string name="dialog_ok">OK</string>
-    <string name="switch_bar_off">Off</string>
-    <string name="switch_bar_on">On</string>
-    <string name="ambient_display_title">Ambient display</string>
-    <string name="ambient_display_always_on_title">Always on</string>
-    <string name="ambient_display_always_on_summary">Show time, notification icons, and other info. Increased battery usage.</string>
-    <string name="pickup_sensor_title">Pickup sensor</string>
-    <string name="pick_up_gesture_title">Pick-up</string>
-    <string name="disabled">Disabled</string>
-    <string name="pick_up_gesture_summary">Pulse notifications on pick-up</string>
-    <string name="pick_up_wake_gesture_summary">Wake device on pick-up</string>
-    <string name="proximity_sensor_title">Proximity sensor</string>
-    <string name="pocket_gesture_title">Pocket</string>
-    <string name="pocket_gesture_summary">Pulse notifications on removal from pocket</string>
 
     <!-- FPS Info -->
     <string name="fps_title">FPS Info</string>
@@ -91,6 +72,16 @@
     <string name="fps_info_position_bottom_center">Bottom center</string>
     <string name="fps_info_position_bottom_right">Bottom right</string>
     <string name="fps_info_text_size_title">Text Size</string>
+
+    <!-- Network -->
+    <string name="network_title">Network</string>
+    <string name="nr_mode_switcher_title">5G Modes Switcher</string>
+    <string name="nsa_only">NSA Only</string>
+    <string name="sa_only">SA Only</string>
+    <string name="nsa_sa">NSA + SA</string>
+    <string name="nr_mode_switcher_warning">Please set again after reboot/changed data sim card</string>
+    <string name="service_not_ready">Service not ready, please try again</string>
+    <string name="unavailable_sim_slot">Unable to get current mobile data slot, please try again</string>
 
     <!-- Touchpanel -->
     <string name="touchpanel_title">Touchpanel</string>
