@@ -480,7 +480,7 @@
     <string name="status_bar_battery_style_title">Стиль батареи</string>
     <string name="status_bar_battery_style_icon_portrait">Портретная иконка (по умолчанию)</string>
     <string name="status_bar_battery_style_icon_rlandscape">Ландшафтная иконка (справа)</string>
-    <string name="status_bar_battery_style_icon_landscape">Ландшафтная иконка (слерава)</string>
+    <string name="status_bar_battery_style_icon_landscape">Ландшафтная иконка (слева)</string>
     <string name="status_bar_battery_style_circle">Круг</string>
     <string name="status_bar_battery_style_dotted_circle">Точечный круг</string>
     <string name="status_bar_battery_style_filled_circle">Заполненный круг</string>
