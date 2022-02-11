@@ -500,4 +500,14 @@
     <string name="use_photos_spoof_title">无限制的 Google Photos 存储</string>
     <string name="use_photos_spoof_summary">伪装机型为 Pixel XL 以获得无限制的原图存储空间</string>
     <string name="use_photos_spoof_info">重启 Google Photos 应用以生效</string>
+    <!-- Strings for per-app volume -->
+    <string name="app_volume">分应用音量</string>
+    <string name="app_volume_title">分应用音量控制</string>
+    <string name="app_volume_summary">在音量调节面板添加分应用音量控制按钮</string>
+    <!-- Navbar options -->
+    <string name="navbar_invert_layout_title">反转导航栏布局</string>
+    <string name="navbar_invert_layout_summary">在右侧显示返回按钮</string>
+    <!-- Volume dialog position -->
+    <string name="left_volume_dialog_title">左侧音量面板</string>
+    <string name="left_volume_dialog_summary">竖屏状态下在左侧显示音量面板</string>
 </resources>
