@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2021 AOSP-Krypton Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- App name -->
+    <string name="app_name">系統更新</string>
+
+    <!-- Menu -->
+    <string name="settings">設定</string>
+    <string name="reset">重設</string>
+
+    <!-- Build info -->
+    <string name="refresh">檢查更新</string>
+    <string name="build_info_title">目前版本資訊</string>
+    <string name="device">裝置</string>
+    <string name="version">版本</string>
+    <string name="date">編譯時間</string>
+    <string name="file">檔案名稱</string>
+    <string name="md5">MD5</string>
+    <string name="hit_refresh">請點擊檢查更新按鈕！</string>
+    <string name="new_update">新版本</string>
+    <string name="current_is_latest">目前版本已是最新！</string>
+    <string name="fetching_build_status_text">正在從 GitHub 取得版本資訊...</string>
+    <string name="unable_to_fetch_details">無法取得詳細資訊，請檢查您的網路或稍後重試</string>
+    <string name="notify_refresh_failed">自動檢測更新失敗</string>
+    <string name="notify_refresh_failed_desc">請自行檢查是否有更新</string>
+    <string name="notify_new_update">檢測到新的系统更新</string>
+    <string name="notify_new_update_desc">安裝更新以取得更好的體驗</string>
+    <string name="changelog">更新日誌</string>
+    <string name="fetching_changelog">正在取得更新日誌...</string>
+    <string name="changelog_unavailable">更新日誌暫時無法使用</string>
+    <string name="unable_to_fetch_changelog">無法取得更新日誌</string>
+
+    <!-- Local Upgrade -->
+    <string name="local">從本機安裝</string>
+    <string name="confirm_selection">確認選擇</string>
+
+    <!-- Download -->
+    <string name="download">下載</string>
+    <string name="starting_download">正在下載</string>
+    <string name="pause">暫停</string>
+    <string name="cancel">取消</string>
+    <string name="resume">繼續</string>
+    <string name="waiting">等待中...</string>
+    <string name="downloading">下載中</string>
+    <string name="download_paused">下載已暫停</string>
+    <string name="download_failed">下載失敗</string>
+    <string name="download_finished">下載已完成</string>
+    <string name="download_cancelled">下載已取消</string>
+    <string name="invalid_url">從 JSON 中解析出的 URL 無效</string>
+    <string name="click_to_update">點擊這裡繼續安裝更新</string>
+    <string name="copy_failed">複製到 Downloads 資料夾失敗</string>
+    <string name="md5_check_failed">MD5 檢驗失敗，檔案已損毀</string>
+
+    <!-- Updater -->
+    <string name="update">更新</string>
+    <string name="applying_update">正在套用更新</string>
+    <string name="processing_payload">處理 Payload 中</string>
+    <string name="update_paused">更新已暫停</string>
+    <string name="update_finished">更新已完成</string>
+    <string name="update_failed">套用更新失敗</string>
+    <string name="invalid_zip_file">不是一個有效的 zip 檔案</string>
+    <string name="step">步驟</string>
+    <string name="reboot">重新開機</string>
+    <string name="magisk">Magisk</string>
+    <string name="sure_to_reboot">你確定要重新開機嗎？</string>
+    <string name="post_update_tips">
+        更新已完成，下次重新開機將切换到另一槽位\n
+        如果您安裝了 Magisk 請現在把它安裝到另一槽位\n
+        如果您没有安裝 Magisk 或者不在意 Magisk 是否遺失，您可以直接點擊重新開機按鈕
+    </string>
+    <string name="metadata_verification_failed">元數據檢驗失敗</string>
+    <string name="payload_transfer_error_retry">Payload 傳輸錯誤，請重試</string>
+    <string name="attempting_downgrade">不允許降級系统</string>
+    <string name="ota_transfer_error">OTA 傳輸錯誤，請重試</string>
+    <string name="rootfs_verification_failed">新 rootfs 檢驗錯誤，請重試</string>
+    <string name="copying">複製檔案到内部目錄</string>
+    <string name="do_not_close">在結束之前請不要關閉該應用程式</string>
+    <string name="magisk_not_installed">Magisk 未安裝或被隱藏</string>
+    <string name="update_finished_notif_desc">點擊以完成更新</string>
+
+    <!-- Updater Settings -->
+    <string name="updater_settings_title">更新器設定</string>
+    <string name="refresh_interval_settings_title">檢查更新間隔</string>
+    <string name="days">天</string>
+
+    <!-- Low battery message -->
+    <string name="battery_low">電池電量不足</string>
+    <string name="plug_in_charger">插入電源以繼續</string>
+</resources>
