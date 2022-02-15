@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2021 ArrowOS
+     Copyright (C) 2022 Nameless-AOSP
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -140,4 +140,7 @@
     <string name="status_bar_ims">VoLTE/VoWiFi</string>
     <!-- CPUInfo tile -->
     <string name="quick_settings_cpuinfo_label">CPU 信息</string>
+    <!-- Refresh Rate Tile -->
+    <string name="refresh_rate_tile_label">刷新率</string>
+    <string name="auto_mode_label">自动</string>
 </resources>
