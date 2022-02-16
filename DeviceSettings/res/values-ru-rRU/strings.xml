@@ -90,6 +90,16 @@
     <string name="fps_info_position_bottom_center">Снизу посередине</string>
     <string name="fps_info_position_bottom_right">Снизу справа</string>
     <string name="fps_info_text_size_title">Размер текста</string>
+
+    <!-- Network -->
+    <string name="network_title">Сеть</string>
+    <string name="nr_mode_switcher_title">Переключатель режимов 5G</string>
+    <string name="nsa_only">Только NSA</string>
+    <string name="sa_only">Только SA</string>
+    <string name="nsa_sa">NSA + SA</string>
+    <string name="nr_mode_switcher_warning">Пожалуйста, повторите настройку после перезагрузки/изменения данных sim-карты</string>
+    <string name="service_not_ready">Сервис не готов, попробуйте еще раз</string>
+    <string name="unavailable_sim_slot">Невозможно получить текущий слот мобильных данных, пожалуйста, попробуйте еще раз</string>
      
     <!-- Touchpanel -->
     <string name="touchpanel_title">Сенсорная панель</string>

@@ -544,4 +544,67 @@
 
     <!-- System Update -->
     <string name="system_update_title">Обновление системы</string>
+
+    <!-- QS Brightness -->
+    <string name="qs_brightness_slider_title">Ползунок яркости</string>
+    <string name="qs_brightness_slider_summary">Настройка ползунка яркости в панели QS</string>
+    <string name="qs_show_brightness_title">Панель быстрых настроек</string>
+    <string name="qs_show_brightness_summary">Показывать ползунок яркости на панели QS</string>
+    <string name="qqs_show_brightness_title">Быстрая QS панель</string>
+    <string name="qqs_show_brightness_summary">Показывать ползунок яркости на панели QQS</string>
+    <string name="qs_brightness_position_position_title">Переместить в нижнюю часть</string>
+    <string name="qs_brightness_position_position_summary">Показывать ползунок яркости в нижней части панели QS</string>
+    <string name="qs_show_auto_brightness_button_title">Кнопка автояркости</string>
+    <string name="qs_show_auto_brightness_button_hide">Скрыть</string>
+    <string name="qs_show_auto_brightness_button_slider">Показывать рядом с ползунком</string>
+    <string name="qs_show_auto_brightness_button_footer">Показывать в нижнем колонтитуле</string>
+
+    <!-- Font style / Icon pack -->
+    <string name="theme_category_title">Theme</string>
+    <string name="theme_customization_font_title">Font style</string>
+    <string name="theme_customization_font_summary">Set system font style</string>
+    <string name="theme_customization_icon_pack_title">Icon pack</string>
+    <string name="theme_customization_icon_pack_summary">Set custom icon pack style</string>
+    <string name="theme_customization_icon_shape_title">Icon shape</string>
+    <string name="theme_customization_icon_shape_summary">Set system icon shape style</string>
+    <string name="theme_customization_signal_icon_title">Signal icon style</string>
+    <string name="theme_customization_signal_icon_summary">Set custom signal icon style</string>
+    <string name="theme_customization_wifi_icon_title">Wi-Fi icon style</string>
+    <string name="theme_customization_wifi_icon_summary">Set custom Wi-Fi icon style</string>
+
+    <!-- Black theme -->
+    <string name="system_black_theme_title">Использовать черную тему</string>
+    <string name="system_black_theme_summary">Принудительное использование черного цвета фона</string>
+
+    <!-- Gesture navbar radius -->
+    <string name="gesture_navbar_radius_title">Радиус полосы</string>
+    <string name="thin_label">Тонкая</string>
+    <string name="thick_label">Толстая</string>
+
+    <!-- One shot automatic brightness -->
+    <string name="auto_brightness_one_shot_title">Автояркость за один раз</string>
+    <string name="auto_brightness_one_shot_summary">Регулировка яркости будет происходить только в момент включения экрана</string>
+
+    <!-- Hotspot VPN -->
+    <string name="tethering_allow_vpn_upstreams_title">Разрешить клиентам использовать VPN</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Разрешить клиентам точки доступа использовать VPN-соединения этого устройства для восходящего подключения</string>
+
+    <!-- Unlimited g00gle ph0t0s st0rage -->
+    <string name="app_info_misc">Разное</string>
+    <string name="use_photos_spoof_title">Неограниченное хранилище Google Фото</string>
+    <string name="use_photos_spoof_summary">Подделка устройства под Pixel XL для получения неограниченного хранилища фотографий в оригинальном качестве</string>
+    <string name="use_photos_spoof_info">Перезапустите приложение Google Фото, чтобы оно вступило в силу</string>
+
+    <!-- Strings for per-app volume -->
+    <string name="app_volume">Громкость приложения</string>
+    <string name="app_volume_title">Регулятор громкости для каждого приложения</string>
+    <string name="app_volume_summary">Добавляет кнопку регулировки громкости для каждого приложения в диалоговое окно регулировки громкости</string>
+
+    <!-- Navbar options -->
+    <string name="navbar_invert_layout_title">Инвертировать расположение панели навигации</string>
+    <string name="navbar_invert_layout_summary">Показывать кнопку "Назад" с правой стороны</string>
+
+    <!-- Volume dialog position -->
+    <string name="left_volume_dialog_title">Регулировка громкостии слева</string>
+    <string name="left_volume_dialog_summary">Показывать диалог громкости с левой стороны в портретном режиме</string>
 </resources>
